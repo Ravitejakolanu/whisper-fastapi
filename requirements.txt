@@ -1,5 +1,4 @@
-torch==2.5.0 --index-url https://download.pytorch.org/whl/cpu
-openai-whisper
+faster-whisper
 fastapi
 uvicorn
 python-multipart
