@@ -1,4 +1,6 @@
+torch --index-url https://download.pytorch.org/whl/cpu
 faster-whisper
 fastapi
 uvicorn
 python-multipart
+requests
